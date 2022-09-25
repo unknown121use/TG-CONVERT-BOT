@@ -9,8 +9,8 @@
   ],
   "logo": "https://telegra.ph/file/7f3b556164324610e21a6.jpg",
   "success_url": "https://telegram.dog/convert_Ns_bot",
-  "website": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
-  "repository": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
+  "website": "https://github.com/unknown121use/TG-CONVERT-BOT",
+  "repository": "https://github.com/unknown121use/TG-CONVERT-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
